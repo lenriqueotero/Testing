@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Instructivo_Licencias_Permisos_Tiendas
 description: 
 published: true
-date: 2022-06-02T18:37:59.511Z
+date: 2022-06-02T18:58:22.996Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-12T05:43:05.259Z
