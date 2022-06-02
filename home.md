@@ -2,40 +2,61 @@
 title: Untitled Page
 description: 
 published: true
-date: 2022-05-26T21:36:23.914Z
+date: 2022-06-02T18:27:24.002Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-12T05:43:05.259Z
 ---
 
-```diagram
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSI1MjFweCIgaGVpZ2h0PSI4MXB4IiB2aWV3Qm94PSItMC41IC0wLjUgNTIxIDgxIiBjb250ZW50PSImbHQ7bXhmaWxlIGhvc3Q9JnF1b3Q7ZW1iZWQuZGlhZ3JhbXMubmV0JnF1b3Q7IG1vZGlmaWVkPSZxdW90OzIwMjItMDUtMTJUMDU6NDQ6MTQuNDgyWiZxdW90OyBhZ2VudD0mcXVvdDs1LjAgKFdpbmRvd3MpJnF1b3Q7IGV0YWc9JnF1b3Q7TFNHWXcxRnBXR3MyWFR5cll2bWgmcXVvdDsgdmVyc2lvbj0mcXVvdDsxOC4wLjMmcXVvdDsgdHlwZT0mcXVvdDtlbWJlZCZxdW90OyZndDsmbHQ7ZGlhZ3JhbSBpZD0mcXVvdDtxQ3BGWURRTm1DOHo3Y21KZnZYeCZxdW90OyBuYW1lPSZxdW90O1BhZ2UtMSZxdW90OyZndDsxWlZOVTRNd0VFQi9EWGNnVXZGcXJmV2dweDQ4WjhnS2NRTExwRXNCZjcyaExLVllQM0IwcG5vcWVkbUYzVWMzZUdLWk4yc3J5K3dCRlJndjlGWGppUnN2REFOZnhPNm5JMjFQb2l1L0I2blZpb05Hc05Fdk1HUXlyYlNDN1NTUUVBM3BjZ29UTEFwSWFNS2t0VmhQdzU3UVRKOWF5aFJPd0NhUjVwUStha1ZaVCtQSUgva2Q2RFFibmh6NHZKUExJWmpCTnBNSzZ5TWtWcDVZV2tUcXIvSm1DYWFUTjNqcDgyNC8yRDBVWnFHZ09Ra1hmY0pPbW9wNzQ3cW9IWm9GNVhybkpWcktNTVZDbXRWSXJ5MVdoWUx1anI1YmpUSDNpS1dEZ1lQUFFOVHlpNVFWb1VNWjVZWjNUNnZtUnJaWTJZVHI0TXBJMmhRNFN2U29xL0FvalR0ZEErWkF0blVCRm93a3ZadStQY2wvZ3ZRUU4zcHlGNnpxZlcyTGY2MHRPcGUyOEd0dFV5bDFwZ2sycGR3M1U3dkRaS2FBSFZpQzV0UG1lRmNzZUJMNUtBcGpYdGZqWUFmRHRHWkhRejNrL2NTSCtIcytnblA2aUdhTWxUSHVsTy9HeHgyZFpRY1RnNVg2MnMxVTVDK1lpdDZhdXB4cEt2NitLYmNjdnduN3ZhTXZxMWk5QWc9PSZsdDsvZGlhZ3JhbSZndDsmbHQ7L214ZmlsZSZndDsiPjxkZWZzLz48Zz48cGF0aCBkPSJNIDIwMCA0MCBMIDEyNi4zNyA0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJyZ2IoMCwgMCwgMCkiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRlci1ldmVudHM9InN0cm9rZSIvPjxwYXRoIGQ9Ik0gMTIxLjEyIDQwIEwgMTI4LjEyIDM2LjUgTCAxMjYuMzcgNDAgTCAxMjguMTIgNDMuNSBaIiBmaWxsPSJyZ2IoMCwgMCwgMCkiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHBvaW50ZXItZXZlbnRzPSJhbGwiLz48cGF0aCBkPSJNIDMyMCA0MCBMIDM5My42MyA0MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJyZ2IoMCwgMCwgMCkiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRlci1ldmVudHM9InN0cm9rZSIvPjxwYXRoIGQ9Ik0gMzk4Ljg4IDQwIEwgMzkxLjg4IDQzLjUgTCAzOTMuNjMgNDAgTCAzOTEuODggMzYuNSBaIiBmaWxsPSJyZ2IoMCwgMCwgMCkiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHBvaW50ZXItZXZlbnRzPSJhbGwiLz48cmVjdCB4PSIyMDAiIHk9IjEwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwIiBmaWxsPSJyZ2IoMjU1LCAyNTUsIDI1NSkiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PHJlY3QgeD0iMCIgeT0iMTAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9InJnYigyNTUsIDI1NSwgMjU1KSIgc3Ryb2tlPSJyZ2IoMCwgMCwgMCkiIHBvaW50ZXItZXZlbnRzPSJhbGwiLz48cGF0aCBkPSJNIDQzMCAyMCBDIDQwNiAyMCA0MDAgNDAgNDE5LjIgNDQgQyA0MDAgNTIuOCA0MjEuNiA3MiA0MzcuMiA2NCBDIDQ0OCA4MCA0ODQgODAgNDk2IDY0IEMgNTIwIDY0IDUyMCA0OCA1MDUgNDAgQyA1MjAgMjQgNDk2IDggNDc1IDE2IEMgNDYwIDQgNDM2IDQgNDMwIDIwIFoiIGZpbGw9InJnYigyNTUsIDI1NSwgMjU1KSIgc3Ryb2tlPSJyZ2IoMCwgMCwgMCkiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRlci1ldmVudHM9ImFsbCIvPjwvZz48L3N2Zz4=
-```
+# Todo lo que debo saber de Licencias y Permisos, 
+## en unos cuantos puntos
 
-# Header
-Your content here
-```diagram
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIzMjFweCIgaGVpZ2h0PSIxODFweCIgdmlld0JveD0iLTAuNSAtMC41IDMyMSAxODEiIGNvbnRlbnQ9IiZsdDtteGZpbGUgaG9zdD0mcXVvdDtlbWJlZC5kaWFncmFtcy5uZXQmcXVvdDsgbW9kaWZpZWQ9JnF1b3Q7MjAyMi0wNS0xNFQwNDozMTo1OS41OTRaJnF1b3Q7IGFnZW50PSZxdW90OzUuMCAoV2luZG93cykmcXVvdDsgdmVyc2lvbj0mcXVvdDsxOC4wLjMmcXVvdDsgZXRhZz0mcXVvdDtUdDR2RkNlbXQyQ0JXUzJGQ1R0MyZxdW90OyB0eXBlPSZxdW90O2VtYmVkJnF1b3Q7Jmd0OyZsdDtkaWFncmFtIGlkPSZxdW90O3E3ZFRwOGZ1aXVxTHdYLW56c21sJnF1b3Q7IG5hbWU9JnF1b3Q7UGFnZS0xJnF1b3Q7Jmd0O3ZaVkJWNE13RE1jL0RYZWcyeDVlTjZjZTlIbll3WE9sRWFxRjhMb3d3RTl2R1dHTXQ4M05wKzVFOG0vU2hGOVQ4TVFpcSsrdExOSW5WR0M4MEZlMUoyNjlNQXg4RWJsSHF6U2RNcjN4T3lHeFduSFFJS3owSi9TWnJKWmF3WG9VU0lpR2RERVdZOHh6aUdta1NXdXhHb2U5b1JsWExXUUNCOElxbHVaUWZkR0swazZOcHY2Z1A0Qk8wcjV5NFBOS0p2dGdGdGFwVkZqdFNXTHBpWVZGcE03SzZnV1lGbDdQcGN1N083RzZhOHhDVHBja2hGM0NScHFTMzQzN29xWi9XZGRpMFpxRnhSaldqdHk4U2pYQnFwQnhLMWZ1aUoyV1VtYWNGemp6VmNZZmljVXlWODhsR1owRDYxd0tMRUY5c3QxZ0I4Rk5EMkFHWkJzWHdnbGl4dHg0Y01LSS9XbzRocUJubSs0ZFFaOG4rZVNUM2RZREhHY3duK09zcHVkWmdYSnp3aTVhU2pIQlhKcmxvTTYzWEtEZDBYZmVFUE9JV0RDbmR5QnFlT2hsU1RpbTI5VnNDMzNQMFBXRnBZMDVTdkF0a1RZQmpwb2NKMjNCU05LYjhlNi93U1l1d0dhTXU3cHdmclQrWVlTQzJZVWpGUDNCQ0UxK3dxSy9lTEhCVWwyRnpmU0tiSnc3Zk9hMmEzcy9DN0g4QWc9PSZsdDsvZGlhZ3JhbSZndDsmbHQ7L214ZmlsZSZndDsiPjxkZWZzLz48Zz48cmVjdCB4PSIwIiB5PSIxMjAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9InJnYigyNTUsIDI1NSwgMjU1KSIgc3Ryb2tlPSJyZ2IoMCwgMCwgMCkiIHBvaW50ZXItZXZlbnRzPSJhbGwiLz48cGF0aCBkPSJNIDEyIDEyMCBMIDEyIDE4MCBNIDEwOCAxMjAgTCAxMDggMTgwIiBmaWxsPSJub25lIiBzdHJva2U9InJnYigwLCAwLCAwKSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PHBhdGggZD0iTSAxMjAgNDAgTCAxOTMuNjMgNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHBvaW50ZXItZXZlbnRzPSJzdHJva2UiLz48cGF0aCBkPSJNIDE5OC44OCA0MCBMIDE5MS44OCA0My41IEwgMTkzLjYzIDQwIEwgMTkxLjg4IDM2LjUgWiIgZmlsbD0icmdiKDAsIDAsIDApIiBzdHJva2U9InJnYigwLCAwLCAwKSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PGVsbGlwc2UgY3g9IjYwIiBjeT0iNDAiIHJ4PSI2MCIgcnk9IjQwIiBmaWxsPSJyZ2IoMjU1LCAyNTUsIDI1NSkiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PHBhdGggZD0iTSAyMzAgMjAgQyAyMDYgMjAgMjAwIDQwIDIxOS4yIDQ0IEMgMjAwIDUyLjggMjIxLjYgNzIgMjM3LjIgNjQgQyAyNDggODAgMjg0IDgwIDI5NiA2NCBDIDMyMCA2NCAzMjAgNDggMzA1IDQwIEMgMzIwIDI0IDI5NiA4IDI3NSAxNiBDIDI2MCA0IDIzNiA0IDIzMCAyMCBaIiBmaWxsPSJyZ2IoMjU1LCAyNTUsIDI1NSkiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHBvaW50ZXItZXZlbnRzPSJhbGwiLz48L2c+PC9zdmc+
-```
+### Objetivo
+* Que todos los empleados de Tienda, se encuentren familiarizados con los documentos denominados licencias y permisos, que se requieren para operar.
+* Que todos los empleados tengan los criterios necesarios para, en caso de que fuera necesario, puedan atender una visita de autoridad, aunque idealmente éstas deben ser atendidas por el Gerente o Subgerente de la Unidad.
+* Que todos los empleados de Tienda estén enterados de que Lentes Galileo, S.A.P.I. de C.V. es una empresa que no tolera ningún tipo de acto de corrupción.
 
+### Alcance
 
-## este es un titulo de segundo nivel
+Este instructivo aplica para todos los y las Casimiras de Tiendas, así como para los y las Gerentes Regionales, Director de Tiendas y el Equipo Legal de Galileo, como entidad que define todos los lineamientos y procesos relacionados con la regularidad legal de las Tiendas. 
 
-- un punto
-- otro punto
-1. aqui una lista numerada
-2. aqui otra
-	2.1 anidado
-  
-> 1. 
-{.is-success}
-> 
-{.is-warning}
-> 
-{.is-danger}
+### Decálogo
 
+1. Leeré la información que se encuentra en el cuadro.
+2. Preguntaré a mi Gerente Regional y/o al Equipo Legal sobre cualquier duda que tenga después de haber leído la información que se encuentra en el cuadro.
+3. Levantaré la mano con mi Gerente Regional y con el Equipo Legal en caso de que piense que mi cuadro se encuentra incompleto; por lo menos cada mes de marzo de cada año, preguntaré a mi Gerente Regional y al Equipo Legal si mi tienda se encuentra regularizada. Asimismo, en caso de que me percate que algún documento se encuentra próximo a vencerse o se encuentra vencido, procederé a notificarlo con mi Gerente Regional y al Equipo Legal.    
+4. Avisaré de inmediato, cualquier visita de Autoridad, por mínima o agradable que parezca tanto a mi Gerente Regional como al Equipo Legal.
+5. Compartiré la información y documentación que derive de la visita de Autoridad, escaneada, tanto a mi Gerente Regional como al Equipo Legal.
+6. En la visita de Autoridad, siempre trataré con respeto y cordialidad a la Autoridad, recordando que solo se encuentra haciendo su trabajo, nada es personal.
+7. En la visita de Autoridad, mostraré la información o documentación que me soliciten, por ningún motivo, me podrán quitar la información o documentación que exhiba.
+8. En ningún momento y por ninguna circunstancia aceptaré o propondré un acto de corrupción, ya sea en dinero o en especie o de cualquier otra forma, debo recordar que la corrupción en la Empresa no es tolerada y tiene consecuencias graves.
+9. Daré puntual seguimiento con mi Gerente Regional y con el Equipo Legal, en caso de que cualquiera de ellos me solicite cualquier clase de documento o información. Asimismo, estaré a disposición para proveer apoyo para cualquier actividad relacionada con el proceso de regularización de permisos y licencias.
+10. Siempre estaré alerta, ya que aunque mi Unidad se encuentre regularizada, eso no implica que no pueda ser sujeta de alguna inspección o visita por parte de la Autoridad.
 
+### Lo que siempre debo tener presente
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cGu_N6jDln8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ * Que toda Autoridad debe presentarme su oficio o documento mediante el cual me requerirá cierta información.
+ * Revisar que la identificación de la Autoridad se encuentra vigente y que la fotografía corresponde con la persona que me visita.
+ * Revisaré todo lo que se asiente en el acta que deriva de la visita, no puedo dar por hecho que todo esta bien, cualquier cosa que no se conforme a lo sucedido, tengo el derecho de levantar la mano.
+ * La Autoridad esta haciendo su trabajo, no la debo hacer esperar de manera innecesaria, ni ser descortés, ni faltarle al respeto.
+ * En caso de cualquier duda (por mínima que sea) y aunque no existieran, siempre debo contactar a mi Gerente Regional y el Equipo Legal.
+ 
+### ¿Dónde debo contactarme en caso de duda, sugerencia o visita de autoridad?
 
-### y este de tercero
+* Con mi **Gerente Regional**, a través de Slack o, en caso de no contestar lo suficientemente pronto para la situación, a través de llamada telefónica.
+* Con **[Diego Cancino]** [Correo de Diego] (Responsable de Equipo Legal) o con [**Humberto Topete**][Correo de Beto] (Analista Legal), a través de Slack.
+* Y en caso de que tenga la tienda un canal de Slack en donde se encuentre mi Gerente Regional y el Equipo Legal, a través de ese canal.
+
+### Anexos
+
+**Anexo A:** Documentos mínimos que debe contener el cuadro de Permisos
+(El Equipo Legal confirmará con Tienda los específicos que cada Unidad deba tener):
+ * Licencia de funcionamiento.
+ * Uso de suelo.
+ * SIEM.
+ * Póliza de Seguro.
+ * Visto Bueno de Protección Civil.
+ * Licencia de Anuncios.
+ 
+[Correo de Diego]: diego.cancino@benandfrank.com
+[Correo de Beto]: humberto.topete@benandfrank.com
