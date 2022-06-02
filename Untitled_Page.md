@@ -2,7 +2,7 @@
 title: Instructivo_Licencias_Permisos_Tiendas
 description: 
 published: true
-date: 2022-06-02T18:58:28.147Z
+date: 2022-06-02T19:11:07.698Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-12T05:43:05.259Z
